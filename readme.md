@@ -12,7 +12,7 @@
   - Tableau Dashboard: https://public.tableau.com/app/profile/robed.beauvile/viz/SalesforValueInc_16889271352410/Dashboard1?publish=yes
  
 - **Blue Bank Loan Analysis**
-  - Tableau Dashboard: https://public.tableau.com/app/profile/robed.beauvile/viz/SalesforValueInc_16889271352410/Dashboard1?publish=yes
+  - Tableau Dashboard: https://public.tableau.com/app/profile/robed.beauvile/viz/BlueBank_16889344235700/BlueBankLoan?publish=yes
 
 - **BlogMe Sentiment and Keyword Analysis**
   - Tableau Dashboard: https://public.tableau.com/app/profile/robed.beauvile/viz/SalesforValueInc_16889271352410/Dashboard1?publish=yes
