@@ -1,7 +1,7 @@
 # python-and-tableau-data-analytics
 
 ### What I Created
-- Created a portfolio of 3 real-life Python/Tableau projects to apply for data analytics jobs
+- Created a portfolio of 3 real-life Python/Tableau projects for data analytics
 
 ### What I Learned
 - Learned the inner workings of the data analytics pipeline by using Python for Data Cleaning & Analysis and Tableau for Data Visualization
