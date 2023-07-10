@@ -1,11 +1,9 @@
 # python-and-tableau-data-analytics
 
-### What I Created
+### Overview
 - Created a portfolio of 3 real-life Python/Tableau projects for data analytics
-
-### What I Learned
 - Learned the inner workings of the data analytics pipeline by using Python for Data Cleaning & Analysis
-- Tableau for Data Visualization
+- Used Tableau for Data Visualization
 - Learned how to perform Data Analytics on Python with Pandas, Numpy, Matplotlib, and Others
 
 ## Data Analysis Projects and Tableau Dashboards
